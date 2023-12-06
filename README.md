@@ -1,4 +1,4 @@
-* BLOG
+# BLOG
 
 I made a Blog using the Django framework.
 
