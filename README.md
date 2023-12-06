@@ -1,6 +1,6 @@
 * BLOG
 
-I made a Blog using Django framework in Python.
+I made a Blog using the Django framework.
 
 Some features:
   - Login
@@ -12,4 +12,4 @@ Some features:
   - Change password and username
   - Reset password
 
-The is my first big project using CRUD functions.
+This is my first big project using CRUD functions.
