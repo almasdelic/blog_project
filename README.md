@@ -1,5 +1,11 @@
 # BLOG
 
+![Landing Page](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202149.png)
+![Login](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202203.png)
+![Register](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202214.png)
+![Pagination](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202250.png)
+![Account](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202308.png)
+
 I made a Blog using the Django framework.
 
 Some features:
@@ -14,8 +20,18 @@ Some features:
 
 This is my first big project using CRUD functions.
 
-![Landing Page](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202149.png)
-![Login](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202203.png)
-![Register](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202214.png)
-![Pagination](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202250.png)
-![Account](https://github.com/almasdelic/blog_project/blob/main/Screenshot%202023-12-06%20202308.png)
+# What is this website for?
+
+This website serves as a showcase of my skills and proficiency in Django, marking my journey into web development and showcasing the capabilities of my first web framework. As a Python Developer, I've leveraged Django to create a fully functional blog with CRUD (Create, Read, Update, Delete) functionality. The primary goals of this project are to demonstrate my understanding of web development concepts, highlight my proficiency with Django, and showcase the practical application of my knowledge acquired during the IT Academy.
+
+# Why did you create this website?
+
+Upon completing the IT Academy as a Python Developer, I recognized the importance of having a comprehensive project that could encapsulate and demonstrate the skills and knowledge acquired throughout the program. This blog project was conceived as a practical manifestation of my proficiency in Django and Python. It serves as a testament to my ability to implement fundamental web development features, including user authentication, CRUD operations, and handling multimedia elements like images.
+
+# What did you use to build this website?
+
+- Django Framework (Python)
+- MySQL
+- HTML
+- CSS
+- JavaScript
